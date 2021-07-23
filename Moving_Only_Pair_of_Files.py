@@ -15,7 +15,7 @@ for i in os.listdir(Source_path):
 
 #텍스트 파일명을 리스트에 담는다.
 temp=[]
-for i in os.listdir('./data/DataSet/'):
+for i in os.listdir(Destination_path):
     #print(k)
     a = i[:-4]
     temp.append(a)

@@ -1,11 +1,11 @@
 #선 조건 : 용량이 0KB TXT 파일은 직접 삭제해주어야 합니다.
-#라벨링된 텍스트 파일을 먼저 지정 폴더에 옮긴다.
+
 Source_path = './data/img/'
 Destination_path ='./data/DataSet/'
 
 import os
 import shutil
-
+#라벨링된 텍스트 파일을 먼저 지정 폴더에 옮긴다.
 n=1
 for i in os.listdir(Source_path):
     print(i)

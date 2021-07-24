@@ -11,3 +11,5 @@
 ![image](https://user-images.githubusercontent.com/76835313/126753728-c2d7f32f-1358-4a53-aa72-6c4506eb9c67.png)
 ## Output 2 : 학습시키기 위해 이름 재변경(정확한 sorting을 위해 앞에 0을 붙여준다.) 
 [MakingSotring](https://github.com/engineerjkk/SortingDataSet/blob/main/MakingtrainTxT.py)
+## Output 3 : cfg 파일을 만들기 위해서 print한다. 이부분을 복사해 yolo-obj.cfg 파일에 넣는다.
+https://github.com/engineerjkk/SortingDataSet/blob/main/MakingPrintCfg.py

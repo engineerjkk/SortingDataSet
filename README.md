@@ -9,3 +9,5 @@
 ![image](https://user-images.githubusercontent.com/76835313/126753661-1037c57b-0d11-49c8-8445-f768b84609ab.png)
 ## Output : 정렬된 데이터 셋
 ![image](https://user-images.githubusercontent.com/76835313/126753728-c2d7f32f-1358-4a53-aa72-6c4506eb9c67.png)
+## Output 2 : 학습시키기 위해 이름 재변경(정확한 sorting을 위해 앞에 0을 붙여준다.) 
+[MakingSotring](https://github.com/engineerjkk/SortingDataSet/blob/main/MakingtrainTxT.py)
